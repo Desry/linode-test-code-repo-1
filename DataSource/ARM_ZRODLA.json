@@ -1,0 +1,45 @@
+{
+  "dataSourceType": "LOCAL_KEY_VALUE_STORE",
+  "dataType": "STRING",
+  "errorHandling": "INIT",
+  "tags": 
+  [
+    "Aldrin"
+  ],
+  "validity": "FREE",
+  "records": 
+  [
+    {
+      "key": "Zr1",
+      "value": "Korekta"
+    },
+    {
+      "key": "Zr2",
+      "value": "Bezkorekta"
+    },
+    {
+      "key": "Zr3",
+      "value": "Korekta"
+    },
+    {
+      "key": "Zr4",
+      "value": "BezKorekta"
+    },
+    {
+      "key": "Zr5",
+      "value": "Korekta"
+    },
+    {
+      "key": "Zr6",
+      "value": "BezKorekta"
+    },
+    {
+      "key": "Zr7",
+      "value": "Korekta"
+    },
+    {
+      "key": "zr8",
+      "value": "BezKorekta"
+    }
+  ]
+}
