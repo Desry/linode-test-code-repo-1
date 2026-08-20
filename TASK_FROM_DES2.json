@@ -1,0 +1,45 @@
+
+[
+  {
+    "domainClass": "ProcessingTemplate",
+    "id": "[DES]task_from_des2",
+    "simpleId": "task_from_des2",
+    "processingType": "TASK",
+    "completeOnMaxSimultaneousExecutions": false,
+    "pendingDate": "2026-08-20T09:02:44Z",
+    "node": "DWH_LOADING_NODE",
+    "pendingBy": "api_user",
+    "preloadCounter": 0,
+    "processingCommand": {
+      "script": "echo \"hello\""
+    },
+    "keepResourcesOnFailure": false,
+    "onHold": false,
+    "highRisk": false,
+    "ignoreProcessingStateRegistry": false,
+    "weight": "1",
+    "taskType": "SH",
+    "statisticPeriod": "MONTH",
+    "priority": "0",
+    "passBy": false,
+    "lazyLoad": false,
+    "customFieldValues": {
+    },
+    "serverNodeType": "LINUX",
+    "verboseMode": false,
+    "eagerScriptExecution": false,
+    "isChangeRequest": false,
+    "passResourceDependenciesToChildren": false,
+    "domain": "DES",
+    "skipTriggerTagsOnProcessingExecution": false,
+    "autoArchive": false,
+    "useScripts": false,
+    "sequentialProcessing": false,
+    "owner": "api_user",
+    "failOnMaxSimultaneousExecutions": false,
+    "turnOffDurationEstimation": false,
+    "statisticMethod": "AVERAGE",
+    "disableManualExecution": false,
+    "passActionsToChildren": false
+  }
+]
